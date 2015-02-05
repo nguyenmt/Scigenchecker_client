@@ -1,0 +1,8 @@
+#this is an example of config file
+#threshold_Sci	0.48
+#threshold_Suspect	0.56	
+#you can set the desired level below
+
+threshold_Sci	0.48
+threshold_Suspect	0.56	
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/testweb/test?wsdl" uri="xml-resources/web-service-references/test/wsdl/localhost_8080/testweb/test.wsdl"/>
+    <system systemId="http://localhost:8080/testweb/test?xsd=1" uri="xml-resources/web-service-references/test/wsdl/localhost_8080/testweb/test.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/test4/check?wsdl" uri="xml-resources/web-service-references/check/wsdl/localhost_8080/test4/check.wsdl"/>
+    <system systemId="http://localhost:8080/test4/check?xsd=1" uri="xml-resources/web-service-references/check/wsdl/localhost_8080/test4/check.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Scigenchecker_V1.3/Checker?wsdl" uri="xml-resources/web-service-references/Checker/wsdl/localhost_8080/Scigenchecker_V1.3/Checker.wsdl"/>
+    <system systemId="http://localhost:8080/Scigenchecker_V1.3/Checker?xsd=1" uri="xml-resources/web-service-references/Checker/wsdl/localhost_8080/Scigenchecker_V1.3/Checker.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/Scigenchecker_V1.4/Checker?wsdl" uri="xml-resources/web-service-references/Checker/wsdl/localhost_8080/Scigenchecker_V1.4/Checker.wsdl"/>
+    <system systemId="http://localhost:8080/Scigenchecker_V1.4/Checker?xsd=1" uri="xml-resources/web-service-references/Checker/wsdl/localhost_8080/Scigenchecker_V1.4/Checker.xsd_1.xsd"/>
+</catalog>
